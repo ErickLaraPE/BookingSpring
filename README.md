@@ -1,6 +1,6 @@
-# 🚀 [School-Dashboard]
+# 🚀 [Booking Spring]
 
-Aplicación que muestra datos estadisticos en un dashboard sobre una escuela.
+Aplicación simple sobre un sistema de reserva de tours o viajes turisticos.
 
 ## 🏗️ Arquitectura del Sistema: Arquitectura por Capas
 
@@ -12,4 +12,4 @@ Se utilizo en el backend de esta aplicacion el patron Singleton junto con el MVC
 
 #### ⚡ Tecnologias empleadas (Stack)
 
-Se empleó para esta aplicación el stack tecnologico MERN (MySQL, Express, React y NodeJS)
+Se empleó para esta aplicación el stack tecnologico MSR (MySQL,Spring y React)
